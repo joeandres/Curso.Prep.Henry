@@ -1,0 +1,17 @@
+FOR
+
+Es un ciclo repetitico el cual nos ayuda a realizar las tareas de una manera mas ordenada y rapida,
+este ciclo realiza una comparacion de los parametros recibidos en su estructura y arroja los resultados en un bucle que no para hasta obtener el resultado deseado.
+
+&&, ||, !
+
+son operadores que realizan una caracterizacion segun la solicitud y el resultado deseado
+
+&& significa si (var a) y (var b) se cumple arroja true
+a && b===true, arroja true si todos los valores comparados se cumplen
+
+|| copara varias variable en funcion del resultado deseado, 
+arroja true si alguno de los valores se cumple
+
+! negacion , la sentencia no se cumple arroja true
+
