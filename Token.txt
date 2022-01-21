@@ -1,0 +1,8 @@
+token prep
+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
+
+git push https://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
+@github.com/joeandres/Curso.Prep.Henry.git
+
+git clone https://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
+@github.com/joeandres/Curso.Prep.Henry.git
